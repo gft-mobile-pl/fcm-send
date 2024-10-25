@@ -1,0 +1,10 @@
+{
+    "notification": {
+        "title": "Test notification title",
+        "body": "Test notification body"
+    },
+    "data": {
+        "some_payload_key": "some_payload_value"
+    },
+    "token": "DEVICE_TOKEN"
+}
